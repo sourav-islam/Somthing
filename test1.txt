@@ -1,1 +1,2 @@
 write somting in test1 file
+Checking the connectivity
